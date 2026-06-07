@@ -6,6 +6,20 @@ The system integrates a React Native mobile application with a Flask-based machi
 
 ---
 
+## Screenshots
+
+Home:
+![image alt]()
+
+Dashboard:
+![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/6be821d5d2f6fb5a43437df9c57dde64832dfc06/screenshots/Screenshot%202026-06-07%20135401.png)
+
+Scan Button:
+![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/6be821d5d2f6fb5a43437df9c57dde64832dfc06/screenshots/Screenshot%202026-06-07%20135342.png)
+
+Prediction:
+![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/6be821d5d2f6fb5a43437df9c57dde64832dfc06/screenshots/Screenshot%202026-06-07%20134925.png)
+
 ## Features
 
 * Capture paddy leaf images using the device camera
