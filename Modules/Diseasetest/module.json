@@ -1,0 +1,11 @@
+{
+    "name": "Diseasetest",
+    "alias": "diseasetest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Diseasetest\\Providers\\DiseasetestServiceProvider"
+    ],
+    "files": []
+}

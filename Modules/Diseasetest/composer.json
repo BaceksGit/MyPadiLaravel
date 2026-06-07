@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/diseasetest",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Diseasetest\\": "app/",
+            "Modules\\Diseasetest\\Database\\Factories\\": "database/factories/",
+            "Modules\\Diseasetest\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Diseasetest\\Tests\\": "tests/"
+        }
+    }
+}

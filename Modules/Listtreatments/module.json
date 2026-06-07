@@ -1,0 +1,12 @@
+{
+    "name": "Listtreatments",
+    "alias": "listtreatments",
+    "active": 1,
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Listtreatments\\Providers\\ListtreatmentsServiceProvider"
+    ],
+    "files": []
+}

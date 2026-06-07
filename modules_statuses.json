@@ -1,0 +1,8 @@
+{
+    "Disease": true,
+    "DiseaseMedicine": true,
+    "Treatments": true,
+    "Blog": true,
+    "Listtreatments": true,
+    "Diseasetest": true
+}
