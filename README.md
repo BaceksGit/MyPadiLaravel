@@ -9,7 +9,7 @@ The system integrates a React Native mobile application with a Flask-based machi
 ## Screenshots
 
 Dashboard:
-![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/4a7af71dae26583994205b701cba72fbc86087a6/screenshots/Screenshot%202026-06-07%20135342.png)
+![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/8eeca977deafb6d50e923a95f9d61a56941face1/screenshots/Screenshot%202026-06-07%20135329.png)
 
 Home:
 ![image alt](https://github.com/BaceksGit/MyPadiLaravel/blob/6be821d5d2f6fb5a43437df9c57dde64832dfc06/screenshots/Screenshot%202026-06-07%20135401.png)
